@@ -1,0 +1,11 @@
+2019-10-19 12:53:24,974 [main] INFO log demo - browser will
+2019-10-19 12:53:46,501 [main] INFO log demo - browser launched done
+2019-10-19 12:53:46,709 [main] INFO log demo - browser back navigated done
+2019-10-19 12:53:46,822 [main] INFO log demo - browser forward navigated done
+2019-10-19 12:53:46,865 [main] INFO log demo - browser refresh done
+2019-10-19 12:54:57,332 [main] INFO log demo - browser will launch now
+2019-10-19 12:55:17,511 [main] INFO log demo - browser launched done
+2019-10-19 12:55:18,083 [main] INFO log demo - browser back navigated done
+2019-10-19 12:55:26,359 [main] INFO log demo - browser forward navigated done
+2019-10-19 12:55:26,387 [main] INFO log demo - browser refresh done
+2019-10-19 12:55:26,388 [main] INFO log demo - ----------------Execution done-------------

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61" started-at="2019-10-19T07:12:14Z" finished-at="2019-10-19T07:12:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61" started-at="2019-10-19T07:12:14Z" finished-at="2019-10-19T07:12:14Z">
+      <class name="testNGMultiple.FirstTC">
+        <test-method status="PASS" signature="FTC01()[pri:0, instance:testNGMultiple.FirstTC@59fa1d9b]" name="FTC01" duration-ms="13" started-at="2019-10-19T07:12:14Z" finished-at="2019-10-19T07:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FTC01 -->
+        <test-method status="PASS" signature="FTC02()[pri:0, instance:testNGMultiple.FirstTC@59fa1d9b]" name="FTC02" duration-ms="5" started-at="2019-10-19T07:12:14Z" finished-at="2019-10-19T07:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FTC02 -->
+      </class> <!-- testNGMultiple.FirstTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
